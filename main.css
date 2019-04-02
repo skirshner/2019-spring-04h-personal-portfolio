@@ -1,8 +1,11 @@
 header{
   background-image: url("./img/aspen.jpg");
   background-size: cover;
-	height: 350px;
+  background-position: center;
+  height: 50vh;
 }
+
+
 
 header{
   color: white;
